@@ -1,0 +1,2 @@
+This is day 2 of solving basic to advance Java questions today we solve questions based on " Conditional Statements " these you can try with any language like python , c++ , etc.
+This will help you to get good understanding of a language and its syntex.
