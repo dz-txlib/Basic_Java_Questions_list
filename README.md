@@ -1,3 +1,3 @@
-# Basic_to_advance_Java_Questions_list!
+# Basic_to_advance_Java_Problems_list!
 
-This is java basic questions and solutions repository
+This is java basic problems and solutions repository
